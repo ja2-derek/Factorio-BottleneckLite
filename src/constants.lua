@@ -38,7 +38,7 @@ constants.ignored_entities = {
 }
 
 constants.sizes = {
-  small = 0.15,
+  small = 0.1,
   medium = 0.2,
   large = 0.25,
 }
